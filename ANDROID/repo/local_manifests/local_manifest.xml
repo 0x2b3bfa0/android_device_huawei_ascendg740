@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="LineageOS/android_device_generic_goldfish" path="device/generic/goldfish" remote="github" revision="cm-10.1" />
+  <project name="LineageOS/android_device_samsung_msm8930-common" path="device/qcom/msm8930-common" remote="github" revision="cm-14.1" />
+  <project name="LineageOS/android_kernel_samsung_msm8930-common" path="kernel/qcom/msm8930-common" remote="github" revision="cm-14.1" />
+</manifest>
+
